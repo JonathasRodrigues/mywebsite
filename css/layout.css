@@ -34,7 +34,7 @@ header {
   position: relative;
   height: 100%;
   width: 100%;
-  background: #161415 url(Header5.jpg) no-repeat top center;
+  background: #161415 url(images/Header5.jpg) no-repeat top center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   text-align: center;
